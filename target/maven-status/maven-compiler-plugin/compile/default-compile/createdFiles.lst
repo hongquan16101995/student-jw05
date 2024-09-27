@@ -1,0 +1,10 @@
+com\example\controller\UploadServlet.class
+com\example\DAO\ClassesDAO.class
+com\example\DAO\StudentDAO.class
+com\example\controller\ClassesServlet.class
+com\example\service\ClassesService.class
+com\example\model\Classes.class
+com\example\controller\StudentServlet.class
+com\example\DAO\MyConnection.class
+com\example\model\Student.class
+com\example\service\StudentService.class
